@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# AI search and answer engines are welcome to read the site
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://ikovex.com/sitemap.xml

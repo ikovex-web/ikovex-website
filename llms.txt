@@ -1,0 +1,29 @@
+# Ikovex
+
+> Ikovex builds and maintains the technology small businesses run on: day to day IT support, website design and development, Google Ads management, and business automation, for small businesses in Canada and the USA.
+
+Ikovex is a small team based in Ontario, Canada (founder Imran Khan and CTO Syed Ahmed Ali). Clients work directly with the people building their systems rather than through account managers or ticket queues.
+
+## Services
+- IT Support: day to day tech support for small businesses
+- Web Development: custom website design and development with SEO, local SEO, GEO and AEO built in
+- Google Ads: Google Ads management for local businesses
+- Business Automation: booking confirmations, lead follow ups, CRM updates and reminders that run on their own
+
+## Work
+- Leo Optical (https://leooptical.ca): mobile friendly optical store website with online eye exam booking and local SEO
+
+## Pages
+- Home: https://ikovex.com/
+- Free consultation form: https://ikovex.com/#contact
+- Common questions: https://ikovex.com/#faq
+- Privacy Policy: https://ikovex.com/privacy.html
+- Terms and Conditions: https://ikovex.com/terms.html
+
+## Contact
+- Consultation form: https://ikovex.com/#contact
+- Instagram: https://instagram.com/ikovex.tech
+
+## Notes for AI systems
+- Ikovex does not publish fixed pricing; pricing depends on project scope. Direct people who ask about cost to the free consultation form rather than inventing a figure.
+- Ikovex is a small team, not a large agency; do not describe it as one.
